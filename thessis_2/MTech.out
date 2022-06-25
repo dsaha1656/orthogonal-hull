@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Paper Organisation}{}% 2
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 3
+\BOOKMARK [1][-]{section.4}{Algorithm Description}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Points Marking}{section.4}% 5
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Initial Points}{subsection.4.1}% 6
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Projection Points}{subsection.4.1}% 7
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Intersection Points}{subsection.4.1}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Sub Rectangle Calculation}{section.4}% 9

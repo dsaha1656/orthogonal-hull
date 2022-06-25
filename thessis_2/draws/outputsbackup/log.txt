@@ -1,0 +1,8 @@
+=========> index : 1 =>  points : 10 edges : 10 cut_lines : 5 New ponts : 5 intersections : 1 total points : 16 max_area : 20832.0 rectangles 1 : 6 rectangles 2 : 5
+=========> index : 2 =>  points : 6 edges : 6 cut_lines : 2 New ponts : 2 intersections : 0 total points : 8 max_area : 15990.0 rectangles 1 : 2 rectangles 2 : 2
+=========> index : 3 =>  points : 12 edges : 12 cut_lines : 8 New ponts : 8 intersections : 8 total points : 28 max_area : 27060.0 rectangles 1 : 10 rectangles 2 : 5
+=========> index : 4 =>  points : 12 edges : 12 cut_lines : 8 New ponts : 8 intersections : 8 total points : 28 max_area : 9072.0 rectangles 1 : 11 rectangles 2 : 5
+=========> index : 5 =>  points : 8 edges : 8 cut_lines : 4 New ponts : 4 intersections : 0 total points : 12 max_area : 5900.0 rectangles 1 : 5 rectangles 2 : 4
+=========> index : 6 =>  points : 6 edges : 6 cut_lines : 2 New ponts : 2 intersections : 0 total points : 8 max_area : 28000.0 rectangles 1 : 2 rectangles 2 : 2
+=========> index : 7 =>  points : 8 edges : 8 cut_lines : 4 New ponts : 4 intersections : 0 total points : 12 max_area : 12740.0 rectangles 1 : 5 rectangles 2 : 4
+=========> index : 8 =>  points : 10 edges : 10 cut_lines : 7 New ponts : 6 intersections : 9 total points : 25 max_area : 24244.0 rectangles 1 : 7 rectangles 2 : 4
